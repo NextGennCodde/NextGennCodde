@@ -16,7 +16,7 @@ I build **real-world projects** and **deploy them** to my repositories—so stay
 ---
 
 ### **📌 My GitHub Stats**  
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NextGenCodde&show_icons=true&theme=tokyonight)  
+![Faizan's GitHub Stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextGenCodde)](https://github.com/NextGenCodde/github-readme-stats))  
 
 ---
 
